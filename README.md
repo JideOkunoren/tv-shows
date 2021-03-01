@@ -1,0 +1,1 @@
+A single page application that requests an endpoint & renders the results
